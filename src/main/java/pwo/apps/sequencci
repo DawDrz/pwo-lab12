@@ -1,0 +1,2 @@
+ #!/home/student/pwo/lab05/lab05/src/main/java/pwo
+ java -jar lab05-1.0-SNAPSHOT.jar $@
